@@ -4,7 +4,7 @@ This repository contains a PDF report and visuals for a database course project.
 
 ## Contents
 
-- 📄 `Database_Course_Documentation.pdf`
+- 📄 `Database-Course-Documentation.pdf`
 - 🖼 Visuals: DBMS mind map, flat file vs relational DB diagram
 
 ## Topics Covered
